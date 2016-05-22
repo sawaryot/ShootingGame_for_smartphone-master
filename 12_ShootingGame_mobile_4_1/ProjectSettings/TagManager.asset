@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BlueCrystal
+  - GreenCrystal
+  - RedCrystal
+  - CureFirst
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Bullet (Player)
+  - Bullet (Enemy)
+  - DestroyArea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bullet
+    uniqueID: 3799605449
+    locked: 0
+  - name: Crystal
+    uniqueID: 3348962659
+    locked: 0
+  - name: Player
+    uniqueID: 979189183
+    locked: 0
+  - name: BlackScreen
+    uniqueID: 1432425945
+    locked: 0
